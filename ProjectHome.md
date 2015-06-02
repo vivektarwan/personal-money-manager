@@ -1,0 +1,1 @@
+.net application that is created to manage the personal expenditure againest the earning of a person
